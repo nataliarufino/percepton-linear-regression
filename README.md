@@ -1,1 +1,1 @@
-# percepton-linear-regression
+# perceptron-linear-regression
